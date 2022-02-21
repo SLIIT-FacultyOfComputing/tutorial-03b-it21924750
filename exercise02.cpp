@@ -31,7 +31,6 @@ int main() {
 
 int volume(int height, int width, int length)
 {
-    return (height * width * length);
+    return (height*width*length);
 }
-
 
